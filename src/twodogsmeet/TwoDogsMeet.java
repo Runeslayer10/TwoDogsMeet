@@ -3,11 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package twodogsmeet;
 
+package twodogsmeet;
+import javax.swing.*;
 /**
  *
- * @author Blake
+ * @author blhad3491
  */
 public class TwoDogsMeet {
 
@@ -15,7 +16,7 @@ public class TwoDogsMeet {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
         
     }
     
