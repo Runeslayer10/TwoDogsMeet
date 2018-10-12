@@ -18,6 +18,15 @@ public class TwoDogsMeet {
     public static void main(String[] args) {
 
         
+        
+        JOptionPane.showMessageDialog(null, "Two dogs will be created in this program.");
+        
+        String name = JOptionPane.showInputDialog("Please enter the name of the first dog.");
+        String breed = JOptionPane.showInputDialog("Please enter the breed of the first dog.");
+        name = JOptionPane.showInputDialog("Please enter the name of the second dog.");
+        breed = JOptionPane.showInputDialog("Please enter the breed of the second dog.");
+        
+        
     }
     
 }
